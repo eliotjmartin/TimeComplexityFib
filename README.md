@@ -1,6 +1,6 @@
 # TimeComplexityFib
 
-This is an exercise used for week 5 of Class Encore for CIS 212:
+This is an exercise used for week 6 of Class Encore for CIS 212:
 
 The goal was to write a program to print the nth Fibonacci number. The first solution does so recursively and has exponential time complexity. The second solution solves the recurrence relation F(n) = F(n-1) + F(n-2), in order to achieve log(n) complexity (due to the power function having O(log(n)) complexity).
 
